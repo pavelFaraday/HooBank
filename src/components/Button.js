@@ -1,5 +1,6 @@
 import React from "react";
 
+<<<<<<< HEAD
 const Button = ({ styles }) => {
 	return (
 		<button
@@ -9,6 +10,10 @@ const Button = ({ styles }) => {
 			Get Started
 		</button>
 	);
+=======
+const Button = () => {
+	return <div>Button</div>;
+>>>>>>> 6910b6a4 (hh)
 };
 
 export default Button;

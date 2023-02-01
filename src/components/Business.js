@@ -1,4 +1,5 @@
 import React from "react";
+<<<<<<< HEAD
 import { features } from "../constants";
 import styles, { layout } from "../style";
 import Button from "./Button";
@@ -54,6 +55,11 @@ const Business = () => {
 			</div>
 		</section>
 	);
+=======
+
+const Business = () => {
+	return <div>Business</div>;
+>>>>>>> 6910b6a4 (hh)
 };
 
 export default Business;
